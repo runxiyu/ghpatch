@@ -24,3 +24,12 @@ Run this behind a reverse proxy.
 
 Public domain, or CC0-1.0 as an alternative. A parent grant applies,
 check the LICENSE file for details.
+
+## Mirrors
+
+- <https://git.sr.ht/~runxiyu/ghpatch> is the "canonical" repository
+- <https://git.runxiyu.org/runxiyu/current/ghpatch.git> also exists and could
+  be potentially be used for automatic deployment in the future
+- <https://github.com/runxiyu/ghpatch> exists; however, pull requests are
+  currently hooked to the GitHub endpoint of
+  [Hybrid](https://git.sr.ht/~runxiyu/hybrid) rather than `ghpatch` itself
